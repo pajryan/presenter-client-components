@@ -1,6 +1,6 @@
 <template>
     <div>
-      <p>This number is updated from the data tab in admin</p>
+      <p>This number is updated from the data tab in admin:::</p>
       <p  class="text-danger">{{this.data[0][0].passedValue}}</p>
     </div>
 </template>
